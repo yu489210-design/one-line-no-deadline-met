@@ -96,6 +96,35 @@ draft, #5 man on holiday, #6 upload bar at 99%.
 
 Winner: #1.
 
+## Blind test and red-team review (added 2026-11-27, after the first kit check)
+
+- Blind test: the final line was re-read with no label, against #2
+  (emailed it at 11:59, to myself), in random order. It still wins:
+  no quotation marks, no subject line, and the last word does the work.
+  A blind test against @markk-st's previous first-place winner is not
+  possible: none of his three hosted bounties has published a winner,
+  so #2 is the comparator and that limit is recorded, not invented.
+- Red-team review, as a picky judge: safe on subject and form, not a
+  stock excuse, ending is clean. The only knock is that "wrong
+  assignment" is a familiar office mistake, so the premise alone does
+  not surprise; it survives because the surprise is in the proof —
+  "in full, with footnotes" — not in the premise. Verdict: keep the
+  ending as written, do not lengthen it. A tired reader 10 seconds
+  later remembers "footnotes", not the setup — the punch is the
+  memorable part, which is what the red-team test asks for.
+- Candidate diversity check: the 25 candidates are not one premise
+  repeated. Angles include wrong work done, self-email, unsent draft,
+  forgotten password, waiting on a person, upload bar, library renewal,
+  midnight ambiguity, snoozed reminder, over-proofreading, phone
+  filing, waiting for an opening line, week progression, calendar
+  moved, rename-final, charger died, head with no export, unread
+  emails, last minute, coffee/focus, imagined deadline, wrong group
+  chat, typo career, IT password, small improvement. Minor overlaps
+  only (password twice, calendar/reminder twice). Top 5 premises are
+  all different — wrong assignment, self-email, unsent draft, man on
+  holiday, upload bar — so no half was discarded and no 10 new ones
+  were needed.
+
 ## Final entry
 
 "I missed the deadline because I finished the wrong assignment, in full, with footnotes."
@@ -130,3 +159,4 @@ written from scratch in this session.
 - Submission: NOT submitted by the agent — no submission id. Still needs
   the main chat with the computer Chrome: approve the agent connection,
   sign the entry in Phantom, payout confirmation.
+---
