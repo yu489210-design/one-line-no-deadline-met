@@ -21,6 +21,12 @@ def main():
     # reads the file exactly as submitted.
     with open(os.path.join(out_dir, "entry.txt"), "w", encoding="utf-8", newline="") as f:
         f.write(ENTRY)
+    # Read it back and confirm the file holds exactly the entry:
+    # a partial write must fail loudly instead of reaching the judge.
+    with open(os.path.join(out_dir, "entry.txt"), "r", encoding="utf-8", newline="") as f:
+        if f.read() != ENTRY:
+            raise SystemExit("round-trip check failed: entry.txt does not match ENTRY")
+    print(f"Wrote {len(ENTRY)} characters to {os.path.join(out_dir, 'entry.txt')}")
 
 if __name__ == "__main__":
     main()
