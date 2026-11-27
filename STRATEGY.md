@@ -27,3 +27,32 @@ laptop updating, cat on the router, three alarms snoozed, to-do list on
 strike, deadline filed a missing-person report. Also avoided the skill's
 cliché list: Monday, copier, "this meeting could have been an email",
 toaster, "as an AI", robot uprising.
+
+## Punch placement and voice
+
+The punch must sit on the last word, not in a quoted subject line or a
+parenthetical aside, because the judge reads the line once and scores
+the ending. "Footnotes" works because it is a concrete noun that proves
+the wrong assignment was finished properly, not just started.
+The voice is a tired employee owning the mistake, not a narrator
+explaining it: no "as an AI", no "imagine if", no setup sentence.
+Keep the sentence short enough to say in one breath — 87 characters
+is the whole line, so there is nowhere for a second joke to hide.
+If a rewrite ever moves the punch earlier in the sentence, reject it:
+a line that peaks in the middle reads as a shrug, not a joke.
+
+## Blind test and red-team review
+
+Blind test: the final line was read again with no label, against
+candidate #2 (emailed it at 11:59, to myself), in random order.
+The final line still wins: it needs no quotation marks, no subject
+line, and its last word does the work. No previous first-place
+winner from @markk-st exists to blind-test against — none of his
+three hosted bounties has published a winner — so #2 is the
+comparator, and that limit is recorded here rather than invented.
+Red-team review, as a picky judge: the line is safe on subject and
+form, it is not a stock excuse, and the ending is clean. The only
+real knock is that "wrong assignment" is a familiar office mistake,
+so it does not surprise on the premise alone; it survives because
+the surprise is in the proof — "in full, with footnotes" — not in
+the premise. Verdict: keep the ending as written, do not lengthen it.
